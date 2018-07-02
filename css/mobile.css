@@ -26,7 +26,7 @@
     font-size: 19px;
     text-align: center;
     position: relative;
-    top: 25px;
+    top: 36px;
     line-height: normal;
   }
   .info2{
@@ -48,7 +48,7 @@
   .stor img{
     width: 12%;
     position: relative;
-    bottom: 24px;
+    bottom: 18px;
   }
   p.num{
     font-size: 36px;
