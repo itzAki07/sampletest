@@ -1,0 +1,106 @@
+@media screen and (max-width : 479px){
+  br{
+    display: none;
+  }
+  .head{
+    width: 80%;
+    height: 110px;
+  }
+  .head img{
+    margin: 36px 32px;
+    width: 80%;
+  }
+  .ban{
+    padding-bottom: 67px;
+  }
+  .banner{
+    width: 100%;
+  }
+  .info{
+    float: none;
+    width: 100%;
+    display: block;
+  }
+  .info p{
+    margin: 0px 26px;
+    font-size: 19px;
+    text-align: center;
+    position: relative;
+    top: 25px;
+    line-height: normal;
+  }
+  .info2{
+    float: none;
+    width: 100%;
+    height: 142px;
+    display: block;
+    margin: 0px;
+    box-shadow: none;
+  }
+  .info2 p{
+    position: relative;
+    bottom: 13px;
+    font-size: 50px;
+  }
+  .stor{
+    display: inline;
+  }
+  .stor img{
+    width: 12%;
+    position: relative;
+    bottom: 24px;
+  }
+  p.num{
+    font-size: 36px;
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+    left: 5px;
+  }
+  p.wor{
+    font-size: 25px;
+    position: relative;
+    display: block;
+    bottom: 45px;
+    right: 6px;
+  }
+  .content{
+    width: 100%;
+    padding-bottom: 120px;
+  }
+  .directory, .real, .employment, .deals{
+    display: block;
+  }
+  .directory{
+    margin: 0px auto;
+    top: 52px;
+  }
+  .real{
+    margin: 0px auto;
+    top: 75px;
+  }
+  .employment{
+    margin: 0px auto;
+    top: 98px;
+  }
+  .deals{
+    margin: 0px auto;
+    top: 121px;
+  }
+  .content2{
+    width: 100%;
+    height: 450px;
+  }
+  .calc{
+    float: none;
+    margin: 0px auto;
+    left: 18%;
+  }
+  .line1{
+    display: inline-block;
+    width: 45%;
+  }
+  .line2{
+    display: inline-block;
+  }
+}
