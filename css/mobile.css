@@ -26,7 +26,7 @@
     font-size: 19px;
     text-align: center;
     position: relative;
-    top: 25px;
+    top: 36px;
     line-height: normal;
   }
   .info2{
@@ -48,7 +48,7 @@
   .stor img{
     width: 12%;
     position: relative;
-    bottom: 24px;
+    bottom: 18px;
   }
   p.num{
     font-size: 36px;
@@ -93,14 +93,32 @@
   }
   .calc{
     float: none;
-    margin: 0px auto;
+    margin: 0px;
     left: 18%;
+  }
+  .calc1{
+    margin: 0px;
+    position: relative;
+    top: 0px;
+  }
+  .calc2{
+    margin: 0px;
+    position: relative;
+    bottom: 6px;
+  }
+  .calc3{
+    margin: 0px;
+    position: relative;
+    bottom: 10px;
   }
   .line1{
     display: inline-block;
     width: 45%;
+    position: relative;
+    left: 5%;
   }
   .line2{
     display: inline-block;
+    width: 45%;
   }
 }
